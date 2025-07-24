@@ -1,0 +1,14 @@
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Any root-level build outputs or temporary files
+/dist/
+/tmp/
